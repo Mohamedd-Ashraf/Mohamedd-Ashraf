@@ -6,11 +6,11 @@
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/Mohamedd-Ashraf?label=Followers&style=social)](https://github.com/Mohamedd-Ashraf)
-&nbsp;&nbsp;
 [![Profile Views](https://komarev.com/ghpvc/?username=Mohamedd-Ashraf&color=7957D5&style=flat-square&label=Profile+Views)](https://github.com/Mohamedd-Ashraf)
 &nbsp;&nbsp;
 [![GitHub PRO](https://img.shields.io/badge/GitHub-PRO-7957D5?style=flat-square&logo=github)](https://github.com/Mohamedd-Ashraf)
+&nbsp;&nbsp;
+![Repos](https://img.shields.io/badge/Repos-26+-7957D5?style=flat-square&logo=github)
 
 </div>
 
@@ -80,7 +80,7 @@ class MohamedAshraf extends Developer {
 | [💪 **Muscle-Up**](https://github.com/Mohamedd-Ashraf/Muscle-Up) | Java · Android | Native Android fitness tracker — **4 community forks** |
 | [🏗️ **Flutter Clean Arch**](https://github.com/Mohamedd-Ashraf/flutter-clean-architucture) | Flutter · Dart | Production-grade Clean Architecture scaffold |
 | [🤖 **Movie Prediction AI**](https://github.com/Mohamedd-Ashraf/MoviePredictionModel) | Python · ML | Regression model predicting movie success |
-| [🎓 **Skyline Backend**](https://github.com/Mohamedd-Ashraf/Graduation-Project-Skyline-Backend) | Node.js | Graduation project backend — REST API |
+| [� **Tic-Tac-Toe**](https://github.com/Mohamedd-Ashraf/Tic-Tac-Toe) | Flutter · Firebase · BLoC | Online multiplayer + Ultimate/Classic modes + AI opponent that learns — [APK available](https://drive.google.com/file/d/1AuRt6miiZyepBXuGffp756P_nVA5xCBR/view?usp=sharing) |
 
 </div>
 
@@ -90,9 +90,9 @@ class MohamedAshraf extends Developer {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mohamedd-Ashraf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Mohamedd-Ashraf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="175"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedd-Ashraf&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedd-Ashraf&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175"/>
 
 </div>
 
