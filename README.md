@@ -80,21 +80,13 @@ class MohamedAshraf extends Developer {
 | [💪 **Muscle-Up**](https://github.com/Mohamedd-Ashraf/Muscle-Up) | Java · Android | Native Android fitness tracker — **4 community forks** |
 | [🏗️ **Flutter Clean Arch**](https://github.com/Mohamedd-Ashraf/flutter-clean-architucture) | Flutter · Dart | Production-grade Clean Architecture scaffold |
 | [🤖 **Movie Prediction AI**](https://github.com/Mohamedd-Ashraf/MoviePredictionModel) | Python · ML | Regression model predicting movie success |
-| [� **Tic-Tac-Toe**](https://github.com/Mohamedd-Ashraf/Tic-Tac-Toe) | Flutter · Firebase · BLoC | Online multiplayer + Ultimate/Classic modes + AI opponent that learns — [APK available](https://drive.google.com/file/d/1AuRt6miiZyepBXuGffp756P_nVA5xCBR/view?usp=sharing) |
+| [❌⭕ **Tic-Tac-Toe**](https://github.com/Mohamedd-Ashraf/Tic-Tac-Toe) | Flutter · Firebase · BLoC | Online multiplayer + Ultimate/Classic modes + AI opponent that learns — [APK available](https://drive.google.com/file/d/1AuRt6miiZyepBXuGffp756P_nVA5xCBR/view?usp=sharing) |
 
 </div>
 
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mohamedd-Ashraf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="175"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedd-Ashraf&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175"/>
-
-</div>
 
 <div align="center">
 
